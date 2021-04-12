@@ -20,7 +20,7 @@ we've learned in a brief lab.
 
 ## Objectives
 
-1. Introduce the HTML `video` tag and its attributes
+1. Introduce the HTML `video` tag and its attributes 
 2. Practice using the `video` tag by creating our own
 
 ## Introducing Embedded Videos
